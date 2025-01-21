@@ -1,0 +1,9 @@
+td {
+    border-bottom: 1px solid #ddd;
+    width: 200px;
+  }
+
+tr:hover {background-color: #2e0b74;
+            font-weight: 400;
+            color: aliceblue;}
+
